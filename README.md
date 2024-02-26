@@ -31,14 +31,16 @@
 
 * _*Forca*_: Classe principal que coordena o fluxo do jogo. É responsável por iniciar o jogo, interagir com o jogador e determinar o resultado do jogo.
 
-# Como Jogar
+## Como Jogar
 
   1. Clone o repositório para seu ambiente de desenvolvimento ou faça o download do projeto.
   2. Na classe _*Forca*_, vá até a `main` e clique em `run`.
   3. Siga as instruções apresentadas no console para jogar.
   4. Tente adivinhar a palavra digitando uma letra por vez.
   5. Continue jogando até adivinhar todas as letras corretamente ou exceder o número máximo de erros permitidos.
- 
+
+> Uma demonstração da gameplay pode ser encontrado [](_)
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
