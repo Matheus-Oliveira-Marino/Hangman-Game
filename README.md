@@ -19,17 +19,17 @@
 
  * O projeto é dividido em várias classes Java que desempenham funções específicas:
 
-* _*BancoDePalavras*_: Responsável por armazenar uma lista de palavras que podem * ser sorteadas para o jogo.
+* `BancoDePalavras`: Responsável por armazenar uma lista de palavras que podem * ser sorteadas para o jogo.
 
-* _*Palavra*_: Representa uma palavra a ser adivinhada pelo jogador. Fornece métodos para obter informações sobre a palavra, como quantidade de letras, posição de ocorrências, etc.
+* `Palavra`: Representa uma palavra a ser adivinhada pelo jogador. Fornece métodos para obter informações sobre a palavra, como quantidade de letras, posição de ocorrências, etc.
 
-* _*Tracinhos*_: Representa a palavra durante o jogo, com algumas letras ocultas por tracinhos. Fornece métodos para revelar letras corretas e verificar se ainda há tracinhos na palavra.
+* `Tracinhos`: Representa a palavra durante o jogo, com algumas letras ocultas por tracinhos. Fornece métodos para revelar letras corretas e verificar se ainda há tracinhos na palavra.
 
-* _*ControladorDeErros*_: Controla o número de erros que o jogador comete durante o jogo.
+* `ControladorDeErros`: Controla o número de erros que o jogador comete durante o jogo.
 
-* _*ControladorDeLetrasJaDigitadas*_: Controla as letras que o jogador já tentou adivinhar.
+* `ControladorDeLetrasJaDigitadas`: Controla as letras que o jogador já tentou adivinhar.
 
-* _*Forca*_: Classe principal que coordena o fluxo do jogo. É responsável por iniciar o jogo, interagir com o jogador e determinar o resultado do jogo.
+* `Forca`: Classe principal que coordena o fluxo do jogo. É responsável por iniciar o jogo, interagir com o jogador e determinar o resultado do jogo.
 
 ## Como Jogar
 
