@@ -1,7 +1,6 @@
 # Hangman Game
 
-- [ ] The Hangman Game is a simple implementation of the classic word guessing game where the player tries to guess a word, letter by letter, before exceeding the maximum allowed number of errors.
-
+- [ ] O Jogo da Forca é uma implementação simples do clássico jogo de adivinhação de palavras onde o jogador tenta adivinhar uma palavra, letra por letra, antes de exceder o número máximo de erros permitidos.
 ## Features
 
 - [ ] O jogo sorteia uma palavra aleatória de um banco de palavras predefinido.
