@@ -1,7 +1,6 @@
 # Hangman Game
 
-- [ ] The Hangman Game is a simple implementation of the classic word guessing game where the player tries to guess a word, letter by letter, before exceeding the maximum allowed number of errors.
-
+- [ ] O Jogo da Forca é uma implementação simples do clássico jogo de adivinhação de palavras onde o jogador tenta adivinhar uma palavra, letra por letra, antes de exceder o número máximo de erros permitidos.
 ## Features
 
 - [ ] O jogo sorteia uma palavra aleatória de um banco de palavras predefinido.
@@ -32,14 +31,16 @@
 
 * _*Forca*_: Classe principal que coordena o fluxo do jogo. É responsável por iniciar o jogo, interagir com o jogador e determinar o resultado do jogo.
 
-# Como Jogar
+## Como Jogar
 
   1. Clone o repositório para seu ambiente de desenvolvimento ou faça o download do projeto.
   2. Na classe _*Forca*_, vá até a `main` e clique em `run`.
   3. Siga as instruções apresentadas no console para jogar.
   4. Tente adivinhar a palavra digitando uma letra por vez.
   5. Continue jogando até adivinhar todas as letras corretamente ou exceder o número máximo de erros permitidos.
- 
+
+> Uma demonstração da gameplay pode ser encontrado [](_)
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
