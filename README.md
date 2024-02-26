@@ -39,8 +39,8 @@
   4. Tente adivinhar a palavra digitando uma letra por vez.
   5. Continue jogando até adivinhar todas as letras corretamente ou exceder o número máximo de erros permitidos.
 
-> Uma demonstração da gameplay pode ser encontrado fazendo o download deste [arquivo](https://github.com/Matheus-Oliveira-Marino/Hangman-Game/blob/main/Gameplay/Hangman%20Game.mp4) 
-
+> Uma demonstração da gameplay pode ser encontrado fazendo o download deste [arquivo.](https://github.com/Matheus-Oliveira-Marino/Hangman-Game/blob/main/Gameplay/Hangman%20Game.mp4) 
+> OBS: Devido ao tamanho do vídeo, há um certo delay entre clicar para baixar o conteúdo e abrir uma janela de download.
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
