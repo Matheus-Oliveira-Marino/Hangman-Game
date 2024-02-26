@@ -39,7 +39,7 @@
   4. Tente adivinhar a palavra digitando uma letra por vez.
   5. Continue jogando até adivinhar todas as letras corretamente ou exceder o número máximo de erros permitidos.
 
-> Uma demonstração da gameplay pode ser encontrado [](_)
+> Uma demonstração da gameplay pode ser encontrado clicando [aqui.](C:\Users\maths\Desktop\Projeto Java\Hangman game\Gameplay\Hangman Game.mp4)
 
 ## Getting Started
 
