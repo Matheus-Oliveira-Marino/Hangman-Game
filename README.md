@@ -59,3 +59,7 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ## Dependency Management
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+## Licenca
+Este projeto está licenciado sob a [MIT LICENSE](https://github.com/Matheus-Oliveira-Marino/Pizzaria-API/blob/d15dc3f0452245adbe4d4b22e7ac1c3af5576893/LICENSE). Consulte o arquivo para obter detalhes.
+
